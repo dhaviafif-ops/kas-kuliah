@@ -1,4 +1,4 @@
-const CACHE_NAME = 'kas-kuliah-v2';
+const CACHE_NAME = 'kas-kuliah-v3';
 const FILE_UTAMA = ['kas-kuliah.html', 'manifest.json', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', (e) => {
